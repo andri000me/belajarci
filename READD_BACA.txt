@@ -1,0 +1,4 @@
+Ini aplikasi pertama saya menggunakan Codeigniter3, VsCode, template dari Bootstrap, dan Xampp versi 5.6.
+
+Masih banyak kekurangannya, kalau mau mengembangkan kode ini, silahkan aja
+Aku ikhlas asal kau bahagia :)
